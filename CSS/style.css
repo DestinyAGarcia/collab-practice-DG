@@ -1,0 +1,16 @@
+/* Navagation starts */
+.logo, .info{
+    background-color: blue;
+    color: yellow;
+}
+
+.contacts, .about{
+    background-color: darkred;
+    color: whitesmoke ;
+}
+
+/* aside and article starts */
+ .rowborder, .col, .col icons{
+    background-color: black;
+    color: white;
+ }
