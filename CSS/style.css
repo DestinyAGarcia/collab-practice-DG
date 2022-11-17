@@ -1,0 +1,21 @@
+/* back ground image starts */
+.bg_img{
+    background-image: url(../img/bgw.png);
+    height: 50rem;
+}
+/* Navagation starts */
+.logo, .info{
+    background-color: blue;
+    color: yellow;
+}
+
+.contacts, .about{
+    background-color: darkred;
+    color: whitesmoke ;
+}
+
+/* aside and article starts */
+ .rowborder, .col, .col-icons{
+    background-color: black;
+    color: white;
+ }
