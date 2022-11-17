@@ -1,3 +1,8 @@
+/* back ground image starts */
+.bg_img{
+    background-image: url(../img/bgw.png);
+    height: 50rem;
+}
 /* Navagation starts */
 .logo, .info{
     background-color: blue;
@@ -10,7 +15,7 @@
 }
 
 /* aside and article starts */
- .rowborder, .col, .col icons{
+ .rowborder, .col, .col-icons{
     background-color: black;
     color: white;
  }
